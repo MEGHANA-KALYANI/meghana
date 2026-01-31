@@ -1,0 +1,14 @@
+# Runtime / sensitive data
+gui_assignment/data/
+data/
+browser/
+browsers/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+.env
+.env.*
